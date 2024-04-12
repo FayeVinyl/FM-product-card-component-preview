@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to use <picture> tags to specify an image source based on viewport
+I learned how to use picture tags to specify an image source based on viewport
 
 ### Useful resources
 
